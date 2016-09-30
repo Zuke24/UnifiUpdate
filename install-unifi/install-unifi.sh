@@ -10,7 +10,7 @@ OS_ARCH=`getconf LONG_BIT`
 UNIFI_SOFTWARE_URL="https://dl.ubnt.com/unifi/5.2.7/UniFi.unix.zip"
 
 # The rc script associated with this branch or fork:
-RC_SCRIPT_URL="https://raw.githubusercontent.com/gozoinks/unifi-pfsense/master/rc.d/unifi.sh"
+RC_SCRIPT_URL="https://raw.githubusercontent.com/Zuke24/UnifiUpdate/master/rc.d/unifi.sh"
 
 #FreeBSD package source:
 FREEBSD_PACKAGE_URL="http://pkg.freebsd.org/freebsd:10:x86:${OS_ARCH}/latest/All/"
